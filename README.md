@@ -101,26 +101,6 @@ Roll No,Subject,M1,M2,M3,Date
 6. **Normalization**: Pad with zeros if fewer than 3 marks exist
 7. **Output Generation**: Export to CSV format
 
-### Key Features
-- Handles students with varying assessment counts
-- Preserves chronological sequence of assessments
-- Automatic datetime format conversion
-- Robust grouping and aggregation
-- CSV-based I/O for data portability
-
-## Use Cases
-- **Academic Dashboard**: Consolidate student performance data for institutional reporting
-- **Performance Analysis**: Track top assessments per subject
-- **Data Migration**: Transform legacy assessment records
-- **Reporting Pipeline**: Feed normalized data into BI tools
-
-## Skills Demonstrated
-- **Data Processing**: Pandas DataFrame manipulation and transformation
-- **Software Development**: Clean, modular Python code structure
-- **Problem Solving**: Logical algorithm design for data aggregation
-- **Data Engineering**: ETL pipeline development
-- **Format Handling**: Date/time parsing and CSV I/O operations
-
 ## Performance Characteristics
 - **Time Complexity**: O(n log n) due to sorting operations
 - **Space Complexity**: O(n) for output generation
