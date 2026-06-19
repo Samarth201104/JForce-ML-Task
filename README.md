@@ -13,7 +13,7 @@ Students often take multiple assessments in different subjects at different time
 - **Normalizes** datasets with varying assessment counts
 - **Generates** a clean, reportable output format
 
-## 🔧 Technical Stack
+## Technical Stack
 - **Language**: Python 3
 - **Core Dependency**: pandas >= 2.0.0
 - **Data Processing**: ETL (Extract, Transform, Load) pipeline
